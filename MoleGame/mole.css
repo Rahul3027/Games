@@ -13,7 +13,7 @@ body {
     display: flex;
     flex-wrap: wrap; 
 
-    background: url("/img/soil.png");
+    background: url("./img/soil.png");
     background-size: cover;
     border: 3px solid white;
     border-radius: 25px;
